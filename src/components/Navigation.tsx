@@ -13,7 +13,7 @@ const Navigation = () => {
           <div className="flex-shrink-0">
             <a href="/">
               <img 
-                src="https://i.imghippo.com/files/vG3390Fp.png" 
+                src="https://i.imghippo.com/files/hiJv8783zTg.png" 
                 alt="Logo" 
                 className="h-12"
               />
