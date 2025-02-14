@@ -21,7 +21,7 @@ const ConsultationCard = () => {
       {/* Logo at the Top */}
       <div className="flex justify-center mb-4">
         <img 
-          src="https://i.imghippo.com/files/vG3390Fp.png" 
+          src="https://i.imghippo.com/files/hiJv8783zTg.png" 
           alt="Logo" 
           className="h-12 filter brightness-0 invert"
         />
